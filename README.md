@@ -56,6 +56,16 @@ Toplam **500 gözlem** bulunmaktadır.
 Model sonuçları, özellikle iş memnuniyeti, fazla mesai durumu ve şirkette çalışma süresinin çalışanların işten ayrılma kararında önemli rol oynadığını göstermektedir.
 
 Bu proje, insan kaynakları departmanlarında karar destek sistemi olarak kullanılabilecek temel bir makine öğrenmesi yaklaşımı sunmaktadır.
+## 📌 Model Sonuçları (Özet)
+
+Kurulan Logistic Regression modeli, işten ayrılacak çalışanları tespit etme
+konusunda başarılı sonuçlar vermiştir. Modelin recall değerinin yüksek olması,
+özellikle işten ayrılacak çalışanları kaçırmama açısından önemlidir.
+
+- Accuracy: %72
+- Recall: %79
+- ROC-AUC: %85
+
 
 ---
 
